@@ -8,7 +8,7 @@ st.set_page_config(page_title="Vietnam Macroeconomic Dashboard", layout="wide", 
 
 col1, col2 = st.columns([1, 15])
 with col1:
-    st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/State_Bank_of_Vietnam_logo.svg/512px-State_Bank_of_Vietnam_logo.svg.png")
+    st.image("logo-nhnnvn-3.png", use_container_width=True)
 with col2:
     st.title("Bảng Điều Khiển: Kinh Tế Vĩ Mô Việt Nam (2010 - 2024)")
 
